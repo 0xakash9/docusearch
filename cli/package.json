@@ -13,7 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@clack/prompts": "^0.7.0"
+    "@clack/prompts": "^0.7.0",
+    "nextra": "^2.13.3",
+    "vocs": "1.0.0-alpha.35"
   },
   "devDependencies": {
     "jiti": "^1.21.0"
